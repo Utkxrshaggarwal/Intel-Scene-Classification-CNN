@@ -15,7 +15,7 @@ from Kaggle, with about 25,000 images (150x150 pixels) split into training and t
 - Adam optimizer with early stopping and learning-rate reduction
 
 ## Results
-- Test accuracy: **XX%**
+- Test accuracy: **86%**
 - Evaluated with a classification report and confusion matrix
 
 ## How to run
